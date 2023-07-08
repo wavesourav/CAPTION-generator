@@ -1,5 +1,3 @@
-# CAPTION-generator
-This is a caption generator and image classifier software
 #CAPTION GENERATOR AND IMAGE CLASSIFIER SOFTWARE
 
 ## Python GUI caption-classification (tkinter)
